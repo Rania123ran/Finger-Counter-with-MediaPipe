@@ -44,12 +44,3 @@ The application detects hand landmarks from a webcam feed and counts the number 
 4. The number of raised fingers is calculated.
 5. The result is displayed on the screen in real time.
 
----
-
-## 🚀 Installation
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/Rania123ran/Finger-Counter-with-MediaPipe.git
-cd Finger-Counter-with-MediaPipe
